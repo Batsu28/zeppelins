@@ -1,3 +1,5 @@
+import "../../style/news.css";
+
 export default function News(props) {
   return (
     <div className="news">

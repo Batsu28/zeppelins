@@ -1,4 +1,4 @@
-export const data = [
+export const Data = [
   {
     title: "User Interface (UI) Design",
     image:
