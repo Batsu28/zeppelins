@@ -1,0 +1,33 @@
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.left {
+  width: 50%;
+}
+.left h2 {
+  margin: 10px 0;
+  color: #424242;
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 63px;
+}
+.left h2:first-child {
+  color: #d05270;
+}
+.left p {
+  margin: 50px 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.right {
+  width: 35%;
+}
+.right img {
+  width: 100%;
+}
+.links {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,23 @@
+.Header {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Header h1 {
+  margin: 0;
+}
+.Header ul {
+  display: flex;
+  gap: 20px;
+}
+.Header li,
+a {
+  list-style: none;
+  text-decoration: none;
+  color: gray;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
