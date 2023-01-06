@@ -8,7 +8,8 @@ export default function News(props) {
       </div>
       <div className="news_text">
         <h3>{props.title}</h3>
-        <p>{props.description}</p>
+        <p className="description">{props.description}</p>
+        <button>Read More</button>
       </div>
     </div>
   );
